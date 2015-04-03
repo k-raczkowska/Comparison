@@ -11,27 +11,27 @@ namespace ZTP_Zadanie3
     {
         public static void Main(string[] args)
         {
-            List<Request> listaWnioskow = zbierzWnioski();
+            List<Request> listOfRequests = gatherRequests();
 
             Employee clubPresident = new ClubPresident();
             Employee sportingDirector = new SportingDirector(clubPresident);
             Employee coach = new Coach(sportingDirector);
-            foreach(Request request in listaWnioskow){
+            foreach(Request request in listOfRequests){
                 coach.receiveARequest(request);
             }
             Console.ReadKey();
         }
 
-        private static List<Request> zbierzWnioski()
+        private static List<Request> gatherRequests()
         {
-            List<Request> wnioski = new List<Request>();
-            wnioski.Add(new ContractRequest("x", new DateTime(), new DateTime()));
-            wnioski.Add(new DressingRoomRepairRequest("y", new DateTime()));
-            wnioski.Add(new TransferRequest("z", new DateTime()));
-            wnioski.Add(new PersonalTrainingRequest("a", new DateTime()));
-            wnioski.Add(new TransferRequest("b", new DateTime()));
-            
-            return wnioski;
+            List<Request> requests = new List<Request>();
+            requests.Add(new ContractRequest("x", new DateTime(), new DateTime()));
+            requests.Add(new DressingRoomRepairRequest("y", new DateTime()));
+            requests.Add(new TransferRequest("z", new DateTime()));
+            requests.Add(new PersonalTrainingRequest("a", new DateTime()));
+            requests.Add(new TransferRequest("b", new DateTime()));
+
+            return requests;
         }
     }
 }

@@ -8,3 +8,5 @@ C:\Users\Karolina_2\Documents\GitHub\Comparison\Chain\Chain\obj\x86\Debug\ZTP_Za
 C:\Users\Karolina_2\Documents\GitHub\Comparison\Chain\Chain\obj\x86\Debug\ZTP_Zadanie3.pdb
 C:\Users\Karolina_2\Documents\GitHub\Comparison\Chain\Chain\bin\Debug\ZTP_Zadanie3.exe
 C:\Users\Karolina_2\Documents\GitHub\Comparison\Chain\Chain\bin\Debug\ZTP_Zadanie3.pdb
+C:\Users\Karolina_2\Documents\GitHub\Comparison\ChainC#\Chain\obj\x86\Debug\ZTP_Zadanie3.exe
+C:\Users\Karolina_2\Documents\GitHub\Comparison\ChainC#\Chain\obj\x86\Debug\ZTP_Zadanie3.pdb
