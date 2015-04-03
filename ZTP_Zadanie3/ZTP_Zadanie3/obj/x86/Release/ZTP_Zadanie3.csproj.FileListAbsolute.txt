@@ -1,0 +1,4 @@
+C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadanie3\bin\Release\ZTP_Zadanie3.exe
+C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadanie3\bin\Release\ZTP_Zadanie3.pdb
+C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadanie3\obj\x86\Release\ZTP_Zadanie3.exe
+C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadanie3\obj\x86\Release\ZTP_Zadanie3.pdb
