@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTP_Zadanie3", "ZTP_Zadanie3\ZTP_Zadanie3.csproj", "{A77D59A1-4ABB-4CFD-9B88-C56849DAB2F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain", "ZTP_Zadanie3\Chain.csproj", "{A77D59A1-4ABB-4CFD-9B88-C56849DAB2F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

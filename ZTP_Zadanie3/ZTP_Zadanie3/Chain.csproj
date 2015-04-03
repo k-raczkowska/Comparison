@@ -58,11 +58,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="chain\wnioski\Request.cs" />
-    <Compile Include="chain\wnioski\ContractRequest.cs" />
-    <Compile Include="chain\wnioski\DressingRoomRepairRequest.cs" />
-    <Compile Include="chain\wnioski\TransferRequest.cs" />
-    <Compile Include="chain\wnioski\PersonalTrainingRequest.cs" />
+    <Compile Include="chain\requests\Request.cs" />
+    <Compile Include="chain\requests\ContractRequest.cs" />
+    <Compile Include="chain\requests\DressingRoomRepairRequest.cs" />
+    <Compile Include="chain\requests\TransferRequest.cs" />
+    <Compile Include="chain\requests\PersonalTrainingRequest.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="chain\employees\SportingDirector.cs" />
     <Compile Include="chain\employees\Employee.cs" />

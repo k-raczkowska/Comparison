@@ -3,3 +3,8 @@ C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadan
 C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadanie3\bin\Debug\ZTP_Zadanie3.pdb
 C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadanie3\obj\x86\Debug\ZTP_Zadanie3.exe
 C:\Users\Karolina_2\documents\visual studio 2010\Projects\ZTP_Zadanie3\ZTP_Zadanie3\obj\x86\Debug\ZTP_Zadanie3.pdb
+C:\Users\Karolina_2\Documents\GitHub\Comparison\ZTP_Zadanie3\ZTP_Zadanie3\obj\x86\Debug\ZTP_Zadanie3.exe
+C:\Users\Karolina_2\Documents\GitHub\Comparison\ZTP_Zadanie3\ZTP_Zadanie3\obj\x86\Debug\ZTP_Zadanie3.pdb
+C:\Users\Karolina_2\Documents\GitHub\Comparison\ZTP_Zadanie3\ZTP_Zadanie3\bin\Debug\ZTP_Zadanie3.exe
+C:\Users\Karolina_2\Documents\GitHub\Comparison\ZTP_Zadanie3\ZTP_Zadanie3\bin\Debug\ZTP_Zadanie3.pdb
+C:\Users\Karolina_2\Documents\GitHub\Comparison\ZTP_Zadanie3\ZTP_Zadanie3\obj\x86\Debug\ZTP_Zadanie3.csprojResolveAssemblyReference.cache
