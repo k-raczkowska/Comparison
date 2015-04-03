@@ -7,8 +7,8 @@ import java.util.Date;
  */
 public class PersonalTrainingRequest extends Request {
 
-    public PersonalTrainingRequest(String nazwa, Date date){
+    public PersonalTrainingRequest(String title, Date date){
         this.date = date;
-        this.nazwa = nazwa;
+        this.title = title;
     }
 }

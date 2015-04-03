@@ -7,11 +7,11 @@ import java.util.Date;
  */
 public class ContractRequest extends Request {
 
-    Date waznosc;
+    Date expiring;
 
-    public ContractRequest(String nazwa, Date date, Date waznosc){
-        this.nazwa = nazwa;
+    public ContractRequest(String title, Date date, Date expiring){
+        this.title = title;
         this.date = date;
-        this.waznosc = waznosc;
+        this.expiring = expiring;
     }
 }

@@ -7,8 +7,8 @@ import java.util.Date;
  */
 public class DressingRoomRepairRequest extends Request {
 
-    public DressingRoomRepairRequest(String nazwa, Date date){
-        this.nazwa = nazwa;
+    public DressingRoomRepairRequest(String title, Date date){
+        this.title = title;
         this.date = date;
     }
 }

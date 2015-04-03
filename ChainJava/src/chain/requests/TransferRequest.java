@@ -7,8 +7,8 @@ import java.util.Date;
  */
 public class TransferRequest extends Request {
 
-    public TransferRequest(String nazwa, Date date){
-        this.nazwa = nazwa;
+    public TransferRequest(String title, Date date){
+        this.title = title;
         this.date = date;
     }
 }

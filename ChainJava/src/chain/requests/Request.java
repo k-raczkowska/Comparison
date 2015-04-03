@@ -7,6 +7,6 @@ import java.util.Date;
  */
 public abstract class Request {
 
-    String nazwa;
+    String title;
     Date date;
 }
